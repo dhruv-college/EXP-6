@@ -61,3 +61,13 @@ Uses Ethereum's built-in cryptographic functions.
 Inspired by Web3 login solutions like MetaMask authentication.
 
 # RESULT: 
+
+![exp 6(i)](https://github.com/user-attachments/assets/cd6e2829-32c5-4f62-9c96-948ad230263a)
+
+![exp6(ii)](https://github.com/user-attachments/assets/da64fea3-9f56-48f3-9e32-7a26dc68e9c5)
+
+![exp6(iii)](https://github.com/user-attachments/assets/6e608f08-2f1e-42e8-93b8-b03d22547b3b)
+
+![exp6(iv)](https://github.com/user-attachments/assets/2e981e3e-c4e6-43e5-b3a1-8d9d3df53085)
+
+Thus the program was implemented and executed successfully and the output was verified
